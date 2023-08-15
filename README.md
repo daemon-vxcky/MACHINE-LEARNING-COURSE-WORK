@@ -1,2 +1,2 @@
 # ML_REPO
-THE REPO FOR ML EXERCISES
+This is the repo where you can find all ML codes done by me for practice
