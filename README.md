@@ -61,37 +61,6 @@ All code is written in **Python**, using **scikit-learn (sklearn)** as the prima
 
 ---
 
-## 🛠️ Installation
-
-Clone the repository and install dependencies:
-
-```bash
-git clone https://github.com/your-username/ML-with-sklearn.git
-cd ML-with-sklearn
-pip install -r requirements.txt
-```
-
-You can also set up a virtual environment (recommended):
-
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-pip install -r requirements.txt
-```
-
----
-
-## 🚀 How to Run
-
-Each script is standalone and can be run independently. For example:
-
-```bash
-python supervised/decision_trees.py
-```
-
-Ensure you have the necessary dependencies installed and required datasets are either generated or loaded via `sklearn.datasets`.
-
----
 
 ## 📦 Dependencies
 
@@ -131,6 +100,8 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 👤 Author
 
 **Vignesh G**
+
+Feel free to make alterations and contributions too!!!!
 
 ---
 
